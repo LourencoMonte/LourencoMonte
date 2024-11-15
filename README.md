@@ -1,9 +1,17 @@
 # Olá, eu sou Lourenço Monte
 
-```ruby 
-class Programmer
+```java
+public class Programmer {
+    public Programmer() {
+        System.out.println("Inicializando a classe Programmer");
+    }
 
-	def initialize() 
+    public static void main(String[] args) {
+        Programmer programmer = new Programmer();
+        System.out.println("Estudando Java!");
+    }
+}
+
 ```
 
 <p align="left">
@@ -18,7 +26,10 @@ class Programmer
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">Low Skill:</h4>
-       <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>    
+	    <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
+	    <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"
+       	    <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
+	  </a>
     </p>
 
 <figure>
