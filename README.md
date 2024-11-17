@@ -1,17 +1,11 @@
 # Olá, eu sou Lourenço Monte
 
-```java
-public class Programmer {
-    public Programmer() {
-        System.out.println("Inicializando a classe Programmer");
-    }
+```JavaScript
+class Programmer {
 
-    public static void main(String[] args) {
-        Programmer programmer = new Programmer();
-        System.out.println("Estudando Java!");
-    }
+  constructor() {
+  }
 }
-
 ```
 
 <p align="left">
