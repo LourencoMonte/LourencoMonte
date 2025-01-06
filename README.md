@@ -1,11 +1,9 @@
 # Olá, eu sou Lourenço Monte
 
-```JavaScript
-class Programmer {
+```ruby 
+class Programmer
 
-  constructor() {
-  }
-}
+	def initialize() 
 ```
 
 <p align="left">
